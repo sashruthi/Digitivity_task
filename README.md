@@ -83,3 +83,7 @@ You can test the API using the provided **Postman Collection** or **Terminal cUR
 
 **First Steps:**
 Register a user (`POST /register`) and Login (`POST /login`). Copy the `token` from the login response. For all `/tasks` requests, provide the token in the `Authorization` header as a `Bearer` token.
+### Output
+![image](https://github.com/sashruthi/Digitivity_task/blob/d1b269aa0a9e72e1c6ce005e088473b659231e40/Screenshot%202026-03-29%20145023.png)
+![image](https://github.com/sashruthi/Digitivity_task/blob/d1b269aa0a9e72e1c6ce005e088473b659231e40/Screenshot%202026-03-29%20144718.png)
+
